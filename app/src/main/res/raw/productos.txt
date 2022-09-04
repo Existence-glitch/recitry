@@ -1,0 +1,234 @@
+Vegetales;Rúcula
+Vegetales;Remolacha
+Vegetales;Albahaca
+Vegetales;Alcachofa
+Vegetales;Esparrago
+Vegetales;Brócoli
+Vegetales;Repollo
+Vegetales;Tomate
+Vegetales;Apio
+Vegetales;Lechuga
+Vegetales;Ajo
+Vegetales;Zanahorias
+Vegetales;Coliflor
+Vegetales;Cebollín
+Vegetales;Cilantro
+Vegetales;Hinojo
+Vegetales;Jengibre
+Vegetales;Menta
+Vegetales;Hongo
+Vegetales;Cebolla
+Vegetales;Perejil
+Vegetales;Guisantes
+Vegetales;Papas
+Vegetales;Rábano
+Vegetales;Ruibarbo
+Vegetales;Espinaca
+Vegetales;Calabaza
+Frutas;Albaricoque
+Frutas;Palta
+Frutas;Plátano
+Frutas;Pimiento
+Frutas;Bayas
+Frutas;Mora
+Frutas;Manzana
+Frutas;Pera
+Frutas;Melon
+Frutas;Sandia
+Frutas;Durazno
+Frutas;Arandanos
+Frutas;Cereza
+Frutas;Chiles
+Frutas;Pepino
+Frutas;Berenjena
+Frutas;Datiles
+Frutas;Toronja
+Frutas;Uva
+Frutas;Kiwi
+Frutas;Lemon
+Frutas;Lima
+Frutas;Mandarinas
+Frutas;Mango
+Frutas;Olivos
+Frutas;Naranja
+Frutas;Piña
+Frutas;Frambuesa
+Frutas;Frutilla
+Bebestibles;Agua
+Bebestibles;Vino
+Bebestibles;Jugo de Naranja
+Bebestibles;Cerveza
+Bebestibles;Sidra
+Bebestibles;Jugo de Manzana
+Bebestibles;Café
+Bebestibles;Cigarros
+Bebestibles;Bebida energética
+Bebestibles;Ginger Ale
+Bebestibles;Whiskey
+Bebestibles;Vodka
+Bebestibles;Bebida isotónica
+Bebestibles;Gin
+Bebestibles;Ron
+Bebestibles;Tequila
+Bebestibles;Jugo Natural
+Bebestibles;Agua tónica
+Bebestibles;Té
+Bebestibles;Soda
+Bebestibles;Champaña
+Granos;Arroz
+Granos;Cereal
+Granos;Cus Cus
+Granos;Muesli
+Granos;Risotto
+Granos;Garbanzos
+Granos;Tofu
+Granos;Arroz Silvestre
+Granos;Arroz Basmati
+Pastas;Spaghetti
+Pastas;Farfalle
+Pastas;Cabellos de Angel
+Pastas;Espirales
+Pastas;Macarrones
+Pastas;Fettuccini
+Pastas;Lasagna
+Pastas;Ravioles
+Panes;Baguette
+Panes;Scone
+Panes;Pan de Molde
+Panes;Ciabatta
+Panes;Hallulla
+Panes;Marraqueta
+Panes;Coliza
+Panes;Pan Pita
+Panes;Integral
+Panes;Frica
+Pasteles;Croissant
+Pasteles;Muffin
+Pasteles;Empolvado
+Pasteles;Berlín
+Pasteles;Panqueque
+Pasteles;Pie de Limón
+Pasteles;Tiramisú
+Pasteles;Cheesecake
+Pasteles;Pie de Calabaza
+Pasteles;Waffle
+Pasteles;Alfajor
+Pasteles;Cocada
+Pasteles;Palmera
+Pasteles;Brazo de Reina
+Pasteles;Calzón Roto
+Carnes;Vacuno
+Carnes;Cerdo
+Carnes;Pollo
+Carnes;Cordero
+Carnes;Atún
+Carnes;Salmón
+Carnes;Merluza
+Carnes;Reineta
+Carnes;Jurel
+Carnes;Ostras
+Carnes;Congrio
+Carnes;Vienesa
+Carnes;Sardina
+Carnes;Camarones
+Carnes;Longaniza
+Carnes;Tocino
+Carnes;Trucha
+Carnes;Jamón
+Carnes;Salame
+Carnes;Churrasco
+Carnes;Hamburguesa de Vacuno
+Carnes;Lomito
+Carnes;Hamburguesa de Soya
+Carnes;Carne de Soya
+Carnes;Pavo
+Carnes;Conejo
+Carnes;Charqui
+Carnes;Jaiba
+Carnes;Hamburguesa de Garbanzos
+Carnes;Not Meat
+Carnes;Carne Molida
+Carnes;Calamar
+Carnes;Pulpo
+Ingredientes;Paprika
+Ingredientes;Sal
+Ingredientes;Harina
+Ingredientes;Leche de vaca
+Ingredientes;Leche de cabra
+Ingredientes;Leche de almendras
+Ingredientes;Pimienta Negra
+Ingredientes;Orégano
+Ingredientes;Cúrcuma
+Ingredientes;Cardamomo
+Ingredientes;Canela
+Ingredientes;Comino
+Ingredientes;Romero
+Ingredientes;Tomillo
+Ingredientes;Ajo en polvo
+Ingredientes;Nuez moscada
+Ingredientes;Clavo de olor
+Ingredientes;Anís
+Ingredientes;Salsa de soya
+Ingredientes;Laurel
+Ingredientes;Azafrán
+Ingredientes;Curry en polvo
+Ingredientes;Ají
+Ingredientes;Vinagre
+Ingredientes;Aceite de oliva
+Ingredientes;Azúcar
+Ingredientes;Huevos
+Ingredientes;Legumbres
+Ingredientes;Miel
+Ingredientes;Mayonesa
+Ingredientes;Ketchup
+Ingredientes;Salsa BBQ
+Ingredientes;Mostaza
+Ingredientes;Salsa de ajo
+Ingredientes;Salsa Alfredo
+Ingredientes;Salsa picante
+Ingredientes;Miel de maple
+Ingredientes;Mermelada
+Ingredientes;Levadura
+Ingredientes;Mantequilla de Maní
+Ingredientes;Mantequilla
+Ingredientes;Aceite de Maravilla
+Ingredientes;Aceite de Canola
+Ingredientes;Cacao
+Ingredientes;Queso
+Ingredientes;Azúcar Flor
+Ingredientes;Almendras
+Ingredientes;Polvos de hornear
+Ingredientes;Aceto balsámico
+Ingredientes;Salsa de Tomate
+Ingredientes;Crema de leche
+Ingredientes;Extracto de Vainilla
+Ingredientes;Crema de Avellanas
+Botiquín;Condones
+Botiquín;Pañales
+Botiquín;Parche Curita
+Botiquín;Desodorante
+Botiquín;Rasuradora
+Botiquín;Esmalte de uñas
+Botiquín;Cotonetes
+Botiquín;Hilo dental
+Botiquín;Acondicionador
+Botiquín;Loción corporal
+Botiquín;Tampones
+Botiquín;Cepillo de dientes
+Botiquín;Pasta de dientes
+Botiquín;Vitaminas
+Botiquín;Shampoo
+Botiquín;Bloqueador solar
+Botiquín;Crema de afeitar
+Domésticos;Papel de aluminio
+Domésticos;Comida para bebé
+Domésticos;Pilas
+Domésticos;Velas
+Domésticos;Detergente
+Domésticos;Bolsa de basura
+Domésticos;Toalla Nova
+Domésticos;Servilleta
+Domésticos;Bombilla
+Domésticos;Esponja
+Domésticos;Limpiador de vidrios
+Domésticos;Papel Higiénico

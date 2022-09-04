@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Recitry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="carro_aqui">Carro</string>
+    <string name="test_1">NOSE QUE ES ESTO</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="almuerzo">Almuerzo</string>
+    <string name="once">Once</string>
+    <string name="cena">Cena</string>
+    <!-- Categorias -->
+    <string name="vegetales">Vegetales</string>
+    <string name="pastas">Pastas</string>
+    <string name="frutas">Fruta</string>
+    <string name="bebestible">Bebestible</string>
+    <string name="granos">Granos</string>
+    <string name="pasteles">Pasteles</string>
+    <string name="panes">Panes</string>
+    <string name="carnes">Carnes</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="domesticos">Domésticos</string>
+    <string name="botiquin">Botiquín</string>
+    <!-- Tipo de comida -->
+    <string name="desayunos">Desayunos</string>
+    <string name="almuerzos">Almuerzos</string>
+    <string name="agregar">Agregar</string>
+    <string name="guardar">Guardar</string>
+    <string name="agregar2">Agregar todo</string>
+    <string name="buscar">Buscar todo</string>
+    <string name="title_activity_test">Test</string>
+    <string name="fab">Fab</string>
+    <string name="categoria">Categoria</string>
+    <string name="producto">Producto</string>
+    <string name="fecha">Fecha</string>
+    <string name="añadirProducto">Añadir Producto</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_despensa">Leanback DespensaActivity</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+
+</resources>

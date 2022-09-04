@@ -1,0 +1,7 @@
+Pure con bistec;Almuerzo;Papas,Agua,Sal,Vacuno,Mantequilla,Aceite de Maravilla,Leche de vaca;(1) Hierva las papas durante 30 minutos, una vez hervidas, ponga mantequilla, sal y las muele, despues ponga a freir el bistec, luego sirva caliente y disfrute su comida.
+Tallarines con Salsa;Almuerzo;Spaghetti,Salsa de Tomate,Agua;Hierva 1 litro de agua, luego sumerja los fideos hasta que esten listos, en un sarten, caliente la salsa de tomate hasta que este lista, luego sirva su porcion
+Pan con Tecito;Once;Té,Pan de Molde,Azúcar,Queso;Ponga el queso en el pan, luego hierva el agua, sirva en una taza e introduzca el tecito, agregue azucar a gusto.
+Pan con Mantequilla;Once;Pan de Molde,Mantequilla;Agregue mantequilla a gusto a su pancito. disfrute de una deliciosa preparacion.
+Pan con Huevo;Desayuno;Pan de Molde,Huevos;Ponga un huevo a freir a la sarten, agregue sal a gusto, cuando este listo servir en el pan.
+Omelette;Desayuno;Pimiento,Queso,Huevos,Ajo;Batir dos huevos en un recipiente, agregar sal , ajo y pimiento a gusto. ponga la mezcla en un sarten a fuego medio, tras 5 minutos, agregue el queso, deje que este se derrita, y retirelo.
+Pavo Horneado;Cena;Pavo,Sal,Pimiento,Ajo,Papas;Ponga el pavo en el horno a 120 grados, mientras este se cocina por aproximadamente media hora, mientras este se cocina,cueza las papas con un poco de sal, agregue ajo y pimientos a los 10 minutos de haber empezado a cocinar el pavo, pele las papas una vez ya cocidas y luego sirvalas junto al trozo de pavo.
